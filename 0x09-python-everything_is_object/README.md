@@ -1,0 +1,1 @@
+an 0x09-python-everything_is_object solutions on task subject
